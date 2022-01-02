@@ -1,7 +1,0 @@
-p  {
-	color: blue;
-	background:yellow;
-	font-weight: bold;
-	text-align: center
-}
-

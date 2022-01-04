@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="eng">
+	<head>
+		<title>One-Page Website</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	
+		<!-- NAV -->
+		<div>
+			<div>
+				<ul>
+					<a href="#home" id="link"><li>HOME</li>
+					<a href="#gallary"><li>GALLARY</li></a>
+					<a href="#contact"><li>RESERVATION</li></a>
+				<ul>
+			</div>
+		</div>
+		<!--END NAV -->
+		
+		<!--INTRO -->
+	    <h1><u>Massage Therapy and Spa</u></h1>
+		
+		<p>Massage therapy is used to <b>help manage
+		a health condition or enhance wellness</b>.<br> It
+		involves manipulating the soft tissue of the body.
+		Massage has been practiced<br> in most cultures, both 
+		Eastern and Western, throughout human history, and
+		was<br> one of the earliest tools that people used to try
+		to relieve pain.</p>
+		<!-- END OF INTRO -->
+		
+		<!-- VIDEO-CONTAINER -->
+					<iframe width="420" height="345" src="https://www.youtube.com/embed/xQQW2c4-X4Q" title="YouTube video player">
+					</iframe>
+					
+					<p>
+					Video courtesy of
+					<a href="http://aurathaispa.co.za/" targe="_blank">Aura Thai Spa</a>
+					
+		<!-- END OF VIDEO-CONTAINER -->
+		
+	    <!-- PHOTO-CONTAINER 1 -->
+					<div class="photo-container">
+						<div class="photo">	
+							<img src="Images\Massage_1.jpg" alt="" width="400" height="235">
+							<div class="photo-overlay">
+								<p>Book your massage today</p>
+							</div>
+						</div>
+					</div>
+		<!-- END PHOTO-CONTAINER 1 -->
+					
+	    <!-- PHOTO-CONTAINER 2 -->
+					<div class="photo-container">
+						<div class="photo">	
+							<img src="Images\Massage_2.jpg" alt="" width="400" height="235">
+							<div class="photo-overlay">
+								<p>Relax your mind</p>
+							</div>
+						</div>
+					</div>
+		<!-- END PHOTO-CONTAINER 2 -->
+		
+		<!-- RSVP -->
+		 <section>
+			<div id="contact">
+				<div>
+					<h1>Reservations</h1>
+					<div>
+						<h2><span>Relax your body and mind</span>
+							<br />Book reservations today!
+						</h2>
+						<p>
+							Please provide us with your basic contact information.
+						</p>
+						<div>
+							<form action="" method="post">
+								<input class="rsvp" type="text" value="First Name">
+								<input class="rsvp" type="text" value="Last Name">
+								<input class="rsvp" type="text" value="Email Address">
+								<input class="rsvp" type="text"	value="Phone Number">
+								<div class="form-spacer">
+									<label class="terms">Terms and Conditions</label>
+								</div>
+								<div>
+									<input type="submit" value="submit">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--END RSVP -->
+		
+		<!-- FOOTER -->
+		<div>
+			www.massagetherapy.spa &nbsp;|&nbsp; &copy; 2022
+		</div>
+		<!-- END FOOTER -->
+		
+	</body>
+</html>
+					
+					
+		

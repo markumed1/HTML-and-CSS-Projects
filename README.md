@@ -1,3 +1,5 @@
 # HTML and CSS Projects
-In this repository I have sample websites that I made using HTML and CSS 
+In this repository I have sample of basic use of HTML and CSS during the time of the course and websites that I made using what was taught.
+
+
 

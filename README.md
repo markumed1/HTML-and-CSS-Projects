@@ -1,2 +1,2 @@
-# Mark-Coding-Projects
+# HTML and CSS Projects
 HTML and CSS

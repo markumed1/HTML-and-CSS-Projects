@@ -12,4 +12,6 @@ This example home page was created as a home webpage for a Space Travel and Reso
 <b>Movie Theater Site</b>:<br>
 This example home page for a Movie theater that is styled using 'Bootstrap 4'. Contains many boostrap components within the code
 
+<b>Code Error</b>:<br>
+This folder was an assignemnt correcting html errors that was provided from instructor.
 

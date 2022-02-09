@@ -20,7 +20,7 @@
             XML_Document = XML_Parser.parseFromString(Movie,"text/xml");
 
             document.getElementById("XML_Example").innerHTML = 
-            XML_Document.getElementsByTagName("director")[0].childNodes.nodeValue;
+            XML_Document.getElementsByTagName("title")[0].childNodes.nodeValue;
         </script>
     </body>
 </html>

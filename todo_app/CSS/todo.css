@@ -1,6 +1,7 @@
 html {
     font-family: "Avenir Next", Helvetica, sans-serif;
     text-align: center;
+    min-height: 100%;
 }
 
 body {
@@ -36,11 +37,13 @@ li {
 div { text-align: center; }
 ul { display: inline-block; text-align: center; }
 
-#footer {
+footer {
     height: 50px;
     border-top: double;
     position: absolute;
+    left: 0;
     bottom: 0;
     width: 100%;
+    overflow: hidden;
     height: 60px;
 }

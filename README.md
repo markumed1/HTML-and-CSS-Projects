@@ -12,3 +12,6 @@ This example home page for a Movie theater that is styled using 'Bootstrap 4'. C
 -[Code Error](https://github.com/markumed1/HTML-and-CSS-Projects/tree/main/Code%20error%20assignment)<br>
 This folder was an assignemnt correcting html errors that was provided from instructor.
 
+-[Tribute Page](https://github.com/markumed1/HTML-and-CSS-Projects/tree/main/Tribute%20Page)
+<br>
+Basic HTML and CSS webpage. Adding his/her image. Below image is a layout of details. Using pragraphs, lists, links, images with CSS.

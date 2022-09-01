@@ -1,0 +1,60 @@
+/*============================================
+    Authour: Mark Medrano
+    HTML project: Tribute with css
+    date: 8/29/2022
+==============================================
+    GENERIC STYLES
+==============================================*/
+
+/* styling the body element
+like the body color and margin*/
+
+body {
+    background-color: #685e45;
+    margin: 15%;
+}
+
+/* styling the Title and giving shadow to the title */
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px whitesmoke;
+    font-size: 7vh;
+}
+
+/*setting width and display type of image */
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+/* setting font color and font size of the image-caption */
+#caption {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+}
+
+/* styling the content of the page like: padding,
+font-size, font color etc. */
+div#tribute-data {
+    background-color: rgba(175, 166, 236, 0.25);
+    box-shadow: 15px 15px 15px #9ea49e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+/* styling the title of the content */
+h1.title-LeandroLo {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+/* styling the link provided at the end */
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
